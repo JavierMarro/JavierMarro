@@ -2,7 +2,7 @@
 =======================
 
 - Originally from Spain but I have spent the last 13 years in the UK.
-- Check out my portfolio site where you can read in more detail about the projects I have completed so far: [javiermarro.dev](javiermarro.dev)
+- Check out my portfolio site where you can read in more detail about the projects I have completed so far: [javiermarro.dev](https://www.javiermarro.dev/)
 - I’m currently completing the [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) course from Harvard.
 - To read list:
   - Grokking: algorithms
