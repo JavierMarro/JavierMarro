@@ -3,11 +3,12 @@
 
 - Originally from Spain but I have spent the last 13 years in the UK.
 - Check out my portfolio site where you can read in more detail about the projects I have completed so far: [javiermarro.dev](https://www.javiermarro.dev/)
-- I’m currently completing the [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) course from Harvard.
+- I’m currently completing the [CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python) course from Harvard.
 - To read list:
   - Grokking: algorithms
   - Clean Code
   - The Pragmatic Programmer
+  - Working Effectively with Legacy Cod
   
 
 ### I have coded with: 
