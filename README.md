@@ -1,13 +1,14 @@
 ## Hello, world 👋 I'm Javier
 =======================
 
+- I am a Junior Full Stack Software Developer (with a slight incline for Front End development) who’s been actively building projects for the past year.
 - Check out my portfolio site where you can read in more detail about the projects I have completed so far: [javiermarro.dev](https://www.javiermarro.dev/)
 - I’m currently completing the [CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python) course from Harvard.
 - To read list:
   - Grokking: algorithms
   - Clean Code
   - The Pragmatic Programmer
-  - Working Effectively with Legacy Cod
+  - Working Effectively with Legacy Code
   
 
 ### I have coded with: 
@@ -63,5 +64,5 @@
 <br/> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierMarro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2%22%20height=%22150%22%20alt=%22languages%20graph"  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierMarro&layout=compact&theme=dracula)
 </div>
