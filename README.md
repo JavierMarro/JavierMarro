@@ -1,5 +1,4 @@
 <h1 align="left">Hello, world 👋 I'm Javier</h1>
-=======================
 
 <p align="left">I'm a Junior Full Stack Software Developer (with a slight incline for Front-End development) who's been actively gaining foundational knowledge in software development by completing Harvard's CS50: Introduction to Computer Science and building projects over the past year.</p>
 
@@ -9,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Check out my portfolio site where you can read in more detail about the projects I have completed so far: [javiermarro.dev](https://www.javiermarro.dev/)<br>📚 I’m currently enrolled in the [CS50: Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python) course from Harvard.<br>📖 Reading list:<br> - Grokking: algorithms (currently reading)
+<p align="left">✨ Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br>📚 I’m currently enrolled in the <a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python">CS50: Introduction to Programming with Python</a> course from Harvard.<br>📖 Reading list:<br> - Grokking: algorithms (currently reading)
  <br> - Clean Code
   <br>- The Pragmatic Programmer
   <br>- Working Effectively with Legacy Code
@@ -69,5 +68,10 @@
 </td></tr></table>  
 <br/> 
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavierMarro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
