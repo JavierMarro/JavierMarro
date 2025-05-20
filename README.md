@@ -1,14 +1,11 @@
 <h1 align="left">Hello, world 👋 I'm Javier</h1>
 
-<p align="left">I'm a Junior Full Stack Software Developer (with a slight incline for Front-End development) who's been actively gaining foundational knowledge in software development by completing Harvard's CS50: Introduction to Computer Science and building projects over the past year.</p>
-
+<p align="left">I'm a Junior Full Stack Software Developer (with a slight incline towards Front-End) who has been upskilling by completing Harvard's CS50: Introduction to Computer Science and building projects over the past year.</p>
 
 
 <h2 align="left">About me</h2>
 
-
-
-<p align="left">✨ Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br>📚 I’m currently enrolled in the <a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python">CS50: Introduction to Programming with Python</a> course from Harvard.<br>📖 Reading list:<br></p>
+<p align="left">✨ Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br>📚 I’m currently enrolled in the <a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python">CS50: Introduction to Programming with Python</a> course from Harvard.<br>📖 Reading list:</p>
 <ul>
   <li>Grokking: algorithms (currently reading)</li>
   <li>Clean Code</li>
