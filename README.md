@@ -1,6 +1,6 @@
 <h1 align="left">Hello, world 👋 I'm Javier</h1>
 
-<p align="left">I'm a Junior Full Stack Software Developer (with a slight incline towards Front-End) who has been upskilling by completing Harvard's CS50: Introduction to Computer Science and building projects over the past year.</p>
+<p align="left"> From Secondary teaching to Software Development, I'm a Junior Full Stack Software Developer (with a slight incline towards Front-End) who has been upskilling by completing Harvard's CS50: Introduction to Computer Science and building projects over the past year. </p>
 
 
 <h2 align="left">About me</h2>
