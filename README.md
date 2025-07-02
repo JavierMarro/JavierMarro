@@ -5,7 +5,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br>📚 I’m currently enrolled in the <a href="https://pll.harvard.edu/course/cs50s-introduction-programming-python">CS50: Introduction to Programming with Python</a> course from Harvard.<br>📖 Reading list:</p>
+<p align="left">✨ Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br>📚 I’m currently taking the <a href="[https://java-programming.mooc.fi/]">Java Programming - MOOC</a> course from the University of Helsinki.<br>📖 Reading list:</p>
 <ul>
   <li>Grokking: algorithms (currently reading)</li>
   <li>Clean Code</li>
