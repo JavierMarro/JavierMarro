@@ -11,11 +11,13 @@
 3. <a href="https://certificates.mooc.fi/validate/gpofo5nbz07">University of Helsinki - Java Programming MOOC II</a>
   
 <p>📚 Reading list:</p>
+<ul>
   <li>Grokking: algorithms ✅ </li>
   <li>Clean Code ✅ </li>
   <li>The Pragmatic Programmer 📖</li>
   <li>Working Effectively with Legacy Code</li>
   <li>Refactoring: Improving the Design of Existing Code</li>
+</ul>
 
 
 
