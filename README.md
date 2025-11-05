@@ -5,12 +5,12 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">👨‍💻 Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br><br>🌱 I’m currently taking the <strong>Java Programming MOOC II</strong> course from the University of Helsinki.<br><br>📄 Certificates I have obtained:<br>
+<p align="left">👨‍💻 Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br><br>🌱 I’m currently building a Full-Stack web app using MongoDB, Spring Boot and React and diving a bit more into algorithms via the <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass">JavaScript Algorithms and Data Structures Masterclass</a> course.<br><br>📄 Certificates I have obtained:<br>
 1. <a href="https://certificates.cs50.io/d60e2b6a-c340-4baf-9663-309e6ca7d2eb.pdf?size=a4">Harvard - CS50: Introduction to Computer Science</a><br>
 2. <a href="https://certificates.mooc.fi/validate/a9yiexuujnc">University of Helsinki - Java Programming MOOC I</a><br>
 3. <a href="https://certificates.mooc.fi/validate/gpofo5nbz07">University of Helsinki - Java Programming MOOC II</a>
   
-<br><p>📚 Reading list:</p>
+<p>📚 Reading list:</p>
 <ul>
   <li>Grokking: algorithms ✅ </li>
   <li>Clean Code ✅ </li>
