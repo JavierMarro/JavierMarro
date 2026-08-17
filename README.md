@@ -8,6 +8,8 @@
 
 <h2 align="left">About me</h2>
 
+<span style="text-shadow: 2px 2px 5px gray;">Full Stack Developer</span>
+
 <p align="left">👨‍💻 Check out my portfolio site where you can read in more detail about the projects I have completed so far: <a href="https://www.javiermarro.dev/">javiermarro.dev</a><br><br>🌱 I’m currently diving a bit more into algorithms via the <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass">JavaScript Algorithms and Data Structures Masterclass</a> course and learning about being productive using AI via the Anthropic platform.<br><br>📄 Certificates I have obtained:<br>
 1. <a href="https://certificates.cs50.io/d60e2b6a-c340-4baf-9663-309e6ca7d2eb.pdf?size=a4">Harvard - CS50: Introduction to Computer Science</a><br>
 2. <a href="https://certificates.mooc.fi/validate/a9yiexuujnc">University of Helsinki - Java Programming MOOC I</a><br>
