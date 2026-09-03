@@ -37,7 +37,7 @@
 <br>
 <li>🖼️ <a href="https://www.curanook.art/">CuraNook</a> <a href="https://github.com/JavierMarro/CuraNook">[repo]</a> — Freelance exhibition curation app pulling live artwork from the Harvard Art Museums & Art Institute of Chicago APIs. React 19, TypeScript, TanStack Router/Query, and offline guest collections available via Dexie/IndexedDB.</li>
 <br>
-<li>📰 <a href="https://jmr-thencnews.netlify.app/home">The NC News</a> <a href="https://github.com/JavierMarro/The-NC-News-BackEnd">[backend] · <a href="https://github.com/JavierMarro/The-NC-News-FrontEnd">[frontend]</a> — Full-stack news platform: Node.js/Express REST API on PostgreSQL built test-first, serving a React SPA with sortable/votable articles, comments, and dark mode.</li>
+<li>📰 <a href="https://jmr-thencnews.netlify.app/home">The NC News</a> <a href="https://github.com/JavierMarro/The-NC-News-BackEnd">[backend] </a>· <a href="https://github.com/JavierMarro/The-NC-News-FrontEnd">[frontend]</a> — Full-stack news platform: Node.js/Express REST API on PostgreSQL built test-first, serving a React SPA with sortable/votable articles, comments, and dark mode.</li>
 <br>
 <li>🥋 <a href="https://www.kendomenu.com/app">KendoMenu</a> — Kendo training-session builder backed by a JSON-modeled library of dojo-style menus, PWA native and installable on phones for assembling focused practice sessions.</li>
 
