@@ -33,8 +33,11 @@
 
 
 <h2 align="left"> 🛠️ Current projects:</h2>
-* 🌐 [Portfolio](https://www.javiermarro.dev/) — Personal site built from scratch with Next.js, TypeScript and Tailwind with reCaptcha v3 implemented for the Contact form.
-* 🖼️ [CuraNook](https://curanook.art) ([repo](https://github.com/JavierMarro/CuraNook)) — Freelance exhibition curation app pulling live artwork from the Harvard Art Museums & Art Institute of Chicago APIs. React 19, TypeScript, TanStack Router/Query, and offline guest collections available via Dexie/IndexedDB.
-* 📰 [The NC News](https://jmr-thencnews.netlify.app/home) ([backend](https://github.com/JavierMarro/The-NC-News-BackEnd) · [frontend](https://github.com/JavierMarro/The-NC-News-FrontEnd)) — Full-stack news platform: Node.js/Express REST API on PostgreSQL built test-first, serving a React SPA with sortable/votable articles, comments, and dark mode.
-* 🥋 [KendoMenu](https://www.kendomenu.com/app) — Kendo training-session builder backed by a JSON-modeled library of dojo-style menus, PWA native and installable on phones for assembling focused practice sessions.
+🌐 [Portfolio](https://www.javiermarro.dev/) — Personal site built from scratch with Next.js, TypeScript and Tailwind with reCaptcha v3 implemented for the Contact form.
+<br>
+🖼️ [CuraNook](https://curanook.art) ([repo](https://github.com/JavierMarro/CuraNook)) — Freelance exhibition curation app pulling live artwork from the Harvard Art Museums & Art Institute of Chicago APIs. React 19, TypeScript, TanStack Router/Query, and offline guest collections available via Dexie/IndexedDB.
+<br>
+📰 [The NC News](https://jmr-thencnews.netlify.app/home) ([backend](https://github.com/JavierMarro/The-NC-News-BackEnd) · [frontend](https://github.com/JavierMarro/The-NC-News-FrontEnd)) — Full-stack news platform: Node.js/Express REST API on PostgreSQL built test-first, serving a React SPA with sortable/votable articles, comments, and dark mode.
+<br>
+🥋 [KendoMenu](https://www.kendomenu.com/app) — Kendo training-session builder backed by a JSON-modeled library of dojo-style menus, PWA native and installable on phones for assembling focused practice sessions.
 
