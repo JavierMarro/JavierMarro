@@ -39,6 +39,7 @@
 <br>
 <li>📰 <a href="https://jmr-thencnews.netlify.app/home">The NC News</a> — <a href="https://github.com/JavierMarro/The-NC-News-BackEnd">[backend] </a> — <a href="https://github.com/JavierMarro/The-NC-News-FrontEnd">[frontend]</a> | Full-stack news platform: Node.js/Express REST API on PostgreSQL built test-first, serving a React SPA with sortable/votable articles, comments, and dark mode.</li>
 <br>
+--- AI-powered projects:<br>
 <li>🥋 <a href="https://www.kendomenu.com/app">KendoMenu</a> — <a href="https://github.com/JavierMarro/kendo-menu">[repo]</a> | Kendo training-session builder backed by a JSON-modeled library of dojo-style menus, PWA native and installable on phones for assembling focused practice sessions.</li>
 <br>
 <li>📜🍺 <a href="https://github.com/JavierMarro/brew-watch">brew-watch</a> — Lightweight Homebrew maintenance tool for macOS, automatically checking for outdated packages every 14 days and surfacing updates directly in the zsh terminal, with upgrades always under your control.</li>
